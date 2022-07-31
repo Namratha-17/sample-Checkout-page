@@ -1,0 +1,86 @@
+.title {
+    width: 100%;
+    font-size: xx-large;
+    font-weight: 600;
+    text-align: center;
+    height: 2rem;
+    padding-top: 1rem;
+}
+
+.container {
+    width: 100%;
+    margin-left: 19rem;
+    text-align: center;
+}
+
+.sub_title {
+    width: 70%;
+}
+
+.payment_title{
+    width: 70%;
+    padding-left: 13rem;
+}
+
+.product_container{
+    width: 70%;
+    padding-top: 1rem;
+}
+
+
+.button {
+    align-items: center;
+    width: 70%;
+    text-align: center;
+    padding-top: 1rem;
+}
+
+.checkout_summary {
+    align-items: center;
+    width: 70%;
+    text-align: center;
+    padding-top: 1rem;
+}
+
+.checkout_summary_table {
+    width: 100%;
+    padding-left: 2rem;
+}
+
+.mat-column-name,
+.mat-column-price,
+.mat-column-quantity,
+.mat-column-totalPrice,
+.mat-column-discountedPrice,
+.mat-column-totalPriceAfterDiscount {
+    width: 16.6% !important;
+    text-align: left;
+}
+
+tr.mat-footer-row {
+    font-weight: bold;
+}
+
+.payment_summary{
+    width: 70%;
+    align-items: center;
+    text-align: center;
+    margin-top: 1rem;
+}
+
+.table{
+    padding-bottom: 2rem;
+    width: 70%;
+    padding-left: 21rem;
+}
+
+.row{
+    padding-left: 4rem;
+    text-align: left;
+    font-size: medium;
+    padding-bottom: 1rem;
+}
+
+.column{
+    padding: 0%;
+}
